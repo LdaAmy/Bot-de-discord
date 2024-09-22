@@ -1,0 +1,19 @@
+{
+  "name": "bot-wl",
+  "version": "1.0.0",
+  "description": "wl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "@vrp.amy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.10.3"
+  }
+}
